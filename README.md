@@ -16,7 +16,7 @@ The feature that this flow uses was released in version 0.6.3 of the node-red-no
 
 ## html
 The sample html and javascript is a cut-down to the essentials only of the standard
-HTML5 audio capture examples. 
+HTML5 audio capture and web socket examples. 
 
 
 ## Sample flow
